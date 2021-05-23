@@ -1,0 +1,17 @@
+.title {
+ 
+  text-align: center;
+}
+ .red
+ {
+   color: red;
+ }
+img{
+  width: 500px;
+  height: 200px;
+  
+  border-style: double;
+}
+video{
+  margin-right: 100px;
+}
